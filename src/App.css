@@ -1,7 +1,5 @@
 * {
   box-sizing: content-box;
-  padding: 0;
-  margin: 0;
 }
 
 body {
@@ -99,7 +97,7 @@ body {
   .gpt3__whatgpt3-heading {
     flex-direction: column;
     align-items: flex-start;
-    margin-bottom: 0rem;
+    margin-bottom: 0;
   }
 
   .gpt3__whatgpt3-heading p {
