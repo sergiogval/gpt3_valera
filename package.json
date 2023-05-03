@@ -5,7 +5,7 @@
   "homepage": "https://sergiogval.github.io/gpt_valera",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^13.5.0",
     "css-loader": "^6.7.1",
     "mini-css-extract-plugin": "^2.6.0",
